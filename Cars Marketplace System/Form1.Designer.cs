@@ -43,7 +43,7 @@
             pictureBox1.Image = Properties.Resources.PORSCHE2;
             pictureBox1.Location = new Point(0, 0);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(443, 746);
+            pictureBox1.Size = new Size(476, 746);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 0;
             pictureBox1.TabStop = false;
@@ -78,10 +78,10 @@
             radioButton2.ForeColor = Color.Black;
             radioButton2.Location = new Point(94, 76);
             radioButton2.Name = "radioButton2";
-            radioButton2.Size = new Size(84, 19);
+            radioButton2.Size = new Size(64, 19);
             radioButton2.TabIndex = 3;
             radioButton2.TabStop = true;
-            radioButton2.Text = "IT Manager";
+            radioButton2.Text = "ADMIN";
             radioButton2.UseVisualStyleBackColor = true;
             // 
             // panel1

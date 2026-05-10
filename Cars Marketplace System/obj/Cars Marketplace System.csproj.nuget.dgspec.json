@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Cars Marketplace System\\Cars Marketplace System\\Cars Marketplace System.csproj": {}
+    "C:\\Users\\Adham mohamed\\source\\repos\\Cars\\Cars Marketplace System\\Cars Marketplace System.csproj": {}
   },
   "projects": {
-    "D:\\Cars Marketplace System\\Cars Marketplace System\\Cars Marketplace System.csproj": {
+    "C:\\Users\\Adham mohamed\\source\\repos\\Cars\\Cars Marketplace System\\Cars Marketplace System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Cars Marketplace System\\Cars Marketplace System\\Cars Marketplace System.csproj",
+        "projectUniqueName": "C:\\Users\\Adham mohamed\\source\\repos\\Cars\\Cars Marketplace System\\Cars Marketplace System.csproj",
         "projectName": "Cars Marketplace System",
-        "projectPath": "D:\\Cars Marketplace System\\Cars Marketplace System\\Cars Marketplace System.csproj",
+        "projectPath": "C:\\Users\\Adham mohamed\\source\\repos\\Cars\\Cars Marketplace System\\Cars Marketplace System.csproj",
         "packagesPath": "C:\\Users\\Adham mohamed\\.nuget\\packages\\",
-        "outputPath": "D:\\Cars Marketplace System\\Cars Marketplace System\\obj\\",
+        "outputPath": "C:\\Users\\Adham mohamed\\source\\repos\\Cars\\Cars Marketplace System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Adham mohamed\\AppData\\Roaming\\NuGet\\NuGet.Config"
