@@ -73,6 +73,46 @@ namespace Cars_Marketplace_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap cars_nissan_GIF {
+            get {
+                object obj = ResourceManager.GetObject("cars nissan GIF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Loop_Glitch_GIF_by_Death_Orgone {
+            get {
+                object obj = ResourceManager.GetObject("Loop Glitch GIF by Death Orgone", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Nft_Coding_GIF_by_xponentialdesign {
+            get {
+                object obj = ResourceManager.GetObject("Nft Coding GIF by xponentialdesign", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap now {
+            get {
+                object obj = ResourceManager.GetObject("now", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap PORSCHE2 {
             get {
                 object obj = ResourceManager.GetObject("PORSCHE2", resourceCulture);
@@ -86,6 +126,26 @@ namespace Cars_Marketplace_System.Properties {
         internal static System.IO.UnmanagedMemoryStream StartPlayer {
             get {
                 return ResourceManager.GetStream("StartPlayer", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap twin_turbo_car_GIF {
+            get {
+                object obj = ResourceManager.GetObject("twin turbo car GIF", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Working_Locked_In_GIF_by_ChesterAbstract {
+            get {
+                object obj = ResourceManager.GetObject("Working Locked In GIF by ChesterAbstract", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
             }
         }
     }
