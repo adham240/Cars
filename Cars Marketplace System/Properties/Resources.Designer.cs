@@ -63,6 +63,16 @@ namespace Cars_Marketplace_System.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Banner_Godzilla_GIF_by_ImportWorx {
+            get {
+                object obj = ResourceManager.GetObject("Banner Godzilla GIF by ImportWorx", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap car_bolt {
             get {
                 object obj = ResourceManager.GetObject("car-bolt", resourceCulture);
@@ -86,6 +96,26 @@ namespace Cars_Marketplace_System.Properties {
         internal static System.Drawing.Bitmap Loop_Glitch_GIF_by_Death_Orgone {
             get {
                 object obj = ResourceManager.GetObject("Loop Glitch GIF by Death Orgone", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Mart_car {
+            get {
+                object obj = ResourceManager.GetObject("Mart car", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Motor_V8_GIF_by_scaniatr {
+            get {
+                object obj = ResourceManager.GetObject("Motor V8 GIF by scaniatr", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

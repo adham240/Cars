@@ -38,3 +38,5 @@ C:\Users\Adham mohamed\Source\Repos\Cars\Cars Marketplace System\obj\Debug\net8.
 C:\Users\Adham mohamed\source\repos\Cars\Cars Marketplace System\obj\Debug\net8.0-windows\Cars_Marketplace_System.User_info.resources
 C:\Users\Adham mohamed\source\repos\Cars\Cars Marketplace System\obj\Debug\net8.0-windows\Cars_Marketplace_System.Admin_info.resources
 C:\Users\Adham mohamed\source\repos\Cars\Cars Marketplace System\obj\Debug\net8.0-windows\Cars_Marketplace_System.Market.resources
+C:\Users\Adham mohamed\Source\Repos\Cars\Cars Marketplace System\obj\Debug\net8.0-windows\Cars_Marketplace_System.Buy_Cars.resources
+C:\Users\Adham mohamed\Source\Repos\Cars\Cars Marketplace System\obj\Debug\net8.0-windows\Cars_Marketplace_System.Spare_Parts.resources

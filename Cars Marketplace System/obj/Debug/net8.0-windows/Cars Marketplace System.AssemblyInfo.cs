@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cars Marketplace System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7620b37e763cec99322ac1a2f1277d454a5fa02")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e657609a9e43ac1222fc9895c1a68341419ea1e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cars Marketplace System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cars Marketplace System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

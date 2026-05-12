@@ -174,7 +174,6 @@
 
         private Label label1;
         private Label label2;
-        private TextBox textBox1;
         private TextBox textBox2;
         private Label label3;
         private PictureBox pictureBox1;
@@ -182,5 +181,6 @@
         private Button button1;
         private Button button2;
         private PictureBox pictureBox2;
+        public TextBox textBox1;
     }
 }

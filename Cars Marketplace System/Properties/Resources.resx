@@ -118,9 +118,6 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Nft Coding GIF by xponentialdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Nft Coding GIF by xponentialdesign.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="Loop Glitch GIF by Death Orgone" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Loop Glitch GIF by Death Orgone.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -130,8 +127,11 @@
   <data name="car-bolt" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\car-bolt.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="twin turbo car GIF" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\twin turbo car GIF.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Mart car" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mart car.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Nft Coding GIF by xponentialdesign" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Nft Coding GIF by xponentialdesign.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Working Locked In GIF by ChesterAbstract" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Working Locked In GIF by ChesterAbstract.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,10 +139,19 @@
   <data name="PORSCHE2" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\PORSCHE2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="Banner Godzilla GIF by ImportWorx" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Banner Godzilla GIF by ImportWorx.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="twin turbo car GIF" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\twin turbo car GIF.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="StartPlayer" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\StartPlayer.wav;System.IO.MemoryStream, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="now" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\now.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Motor V8 GIF by scaniatr" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Motor V8 GIF by scaniatr.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

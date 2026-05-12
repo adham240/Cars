@@ -46,6 +46,7 @@ namespace Cars_Marketplace_System
             }
             Market obj = new Market();
             obj.Show();
+            obj.label2.Text = Name;
 
 
 
@@ -61,5 +62,6 @@ namespace Cars_Marketplace_System
         {
             textBox2.UseSystemPasswordChar = true;  
         }
+        
     }
 }
